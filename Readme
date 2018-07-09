@@ -1,0 +1,16 @@
+Aim
+---
+Studying the usage of the On-Chip DMA of Ethernet Interface of this Device
+
+Device
+-------
+Atmel AT91RM9200
+
+Datasheet
+---------
+Saved in current directory as AT91RM9200_Datasheet.pdf
+
+Drivers 
+-------
+Saved in cadence folder which is originally taken from the following source:
+$<linux_kernel_v3.14>/drivers/net/ethernet/cadence
